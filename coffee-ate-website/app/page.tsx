@@ -25,12 +25,15 @@ export default function Home() {
       
       </header>  
       <section className="min-h-screen mt-[100px] ">
-        <Image src="/coffee.jpeg" height={540}   width={800} alt="Cofee" objectFit="contain"/>
+        <Image src="/coffee.jpeg" height={540}   width={800} alt="Cofee" objectFit="contain" className="lg:w-[100%]"/>
         <div className="mt-10">
           <h1 className=" text-3xl md:text-6xl text-center ">Fueling your day, one cup at a time!</h1>
           <p className="text-center mt-8">Welcome to our virtual haven for coffee aficionados! Immerse yourself in a world of aromatic brews and artisanal blends, where every sip tells a story. From velvety lattes to bold espressos, our carefully curated selection promises to tantalize your taste buds and elevate your coffee experience. Explore our enticing array of freshly roasted beans, expertly crafted beverages, and delectable treats, all designed to awaken your senses and ignite your passion for exceptional coffee. </p>
         </div>
-        </section>        
+        </section>     
+        <section className="bg-gradient-to-r from-gray-300 to-black min-h-screen ">
+          <h1>Menu</h1>
+          </section>   
     </main>
   )
 }
