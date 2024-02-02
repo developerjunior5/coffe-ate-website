@@ -8,7 +8,7 @@ export default function HomePage() {
           <div className="sm:flex-row">
           <div>
             <Image 
-            src="/download.jpeg" 
+            src="/coffee.jpg" 
             width={300}
             height={300}
             alt="Coffee"
