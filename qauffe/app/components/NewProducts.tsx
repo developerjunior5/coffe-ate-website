@@ -1,3 +1,4 @@
+import { Button } from "@/components/ui/button";
 import Image from "next/image";
 
 export default function  NewProducts(){
@@ -11,6 +12,12 @@ export default function  NewProducts(){
                  <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
                  <div  className="pl-2">
                  <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
+                 </div>
+                 <span className="font-bold pl-3 pt-4">R 5000.00</span>
+                 <div className="pl-2">
+
+                 
+                 <Button>Add To Cart</Button>
                  </div>
                 </div>
             </div>
