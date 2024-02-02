@@ -20,6 +20,141 @@ export default function  NewProducts(){
                  <Button>Add To Cart</Button>
                  </div>
                 </div>
+                <div>
+                    <Image
+                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                 <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
+                 <div  className="pl-2">
+                 <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
+                 </div>
+                 <span className="font-bold pl-3 pt-4">R 5000.00</span>
+                 <div className="pl-2">
+
+                 
+                 <Button>Add To Cart</Button>
+                 </div>
+                </div>
+                <div>
+                    <Image
+                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                 <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
+                 <div  className="pl-2">
+                 <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
+                 </div>
+                 <span className="font-bold pl-3 pt-4">R 5000.00</span>
+                 <div className="pl-2">
+
+                 
+                 <Button>Add To Cart</Button>
+                 </div>
+                </div>
+                <div>
+                    <Image
+                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                 <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
+                 <div  className="pl-2">
+                 <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
+                 </div>
+                 <span className="font-bold pl-3 pt-4">R 5000.00</span>
+                 <div className="pl-2">
+
+                 
+                 <Button>Add To Cart</Button>
+                 </div>
+                </div>
+                <div>
+                    <Image
+                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                 <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
+                 <div  className="pl-2">
+                 <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
+                 </div>
+                 <span className="font-bold pl-3 pt-4">R 5000.00</span>
+                 <div className="pl-2">
+
+                 
+                 <Button>Add To Cart</Button>
+                 </div>
+                </div>
+                <div>
+                    <Image
+                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                 <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
+                 <div  className="pl-2">
+                 <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
+                 </div>
+                 <span className="font-bold pl-3 pt-4">R 5000.00</span>
+                 <div className="pl-2">
+
+                 
+                 <Button>Add To Cart</Button>
+                 </div>
+                </div>
+                <div>
+                    <Image
+                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                 <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
+                 <div  className="pl-2">
+                 <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
+                 </div>
+                 <span className="font-bold pl-3 pt-4">R 5000.00</span>
+                 <div className="pl-2">
+
+                 
+                 <Button>Add To Cart</Button>
+                 </div>
+                </div>
+                <div>
+                    <Image
+                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                 <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
+                 <div  className="pl-2">
+                 <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
+                 </div>
+                 <span className="font-bold pl-3 pt-4">R 5000.00</span>
+                 <div className="pl-2">
+
+                 
+                 <Button>Add To Cart</Button>
+                 </div>
+                </div>
+                <div>
+                    <Image
+                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                 <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
+                 <div  className="pl-2">
+                 <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
+                 </div>
+                 <span className="font-bold pl-3 pt-4">R 5000.00</span>
+                 <div className="pl-2">
+
+                 
+                 <Button>Add To Cart</Button>
+                 </div>
+                </div>
+                <div>
+                    <Image
+                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                 <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
+                 <div  className="pl-2">
+                 <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
+                 </div>
+                 <span className="font-bold pl-3 pt-4">R 5000.00</span>
+                 <div className="pl-2">
+
+                 
+                 <Button>Add To Cart</Button>
+                 </div>
+                </div>
             </div>
 
         </div>
