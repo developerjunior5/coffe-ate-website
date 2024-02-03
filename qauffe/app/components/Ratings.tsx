@@ -3,7 +3,7 @@ import { Star, StarHalfIcon, StarIcon } from 'lucide-react';
 
 export default function Ratings(){
     return(
-        <div className="bg-gray-500 h-[400px] justify-center items-center">
+        <div className=" h-[300px] justify-center items-center">
             <div className="bg-gray-100 h-[300px] justify-center items-center">
                 <h1 className="text-center pt-10">Our Customer Satisfactory Ratings:</h1>
                 <h1 className='text-center text-2xl pt-5'>Always Amazing Service</h1>
@@ -17,7 +17,7 @@ export default function Ratings(){
                 <div  className='pt-10 pl-[100px]'>
                     <Button variant="outline" >View Testimonials</Button>
                 </div>
-            </div>Chghcjgc
+            </div>
 
         </div>
     )

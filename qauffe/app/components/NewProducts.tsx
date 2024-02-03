@@ -3,12 +3,13 @@ import Image from "next/image";
 
 export default function  NewProducts(){
     return (
-        <div className="min-h-screen bg-white w-full">
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
+        <div className="min-h-screen bg-white w-full pt-10">
+            <h1 className="text-center font-bold">Best sellers</h1>
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-y-4">
                 <div>
                     <Image
-                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
-                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                    src="/choco.jpeg" height={65}  width={65} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Volcanica</h1>
                  <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
                  <div  className="pl-2">
                  <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
@@ -22,8 +23,8 @@ export default function  NewProducts(){
                 </div>
                 <div>
                     <Image
-                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
-                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                    src="/ricoffe.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Rocoffe</h1>
                  <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
                  <div  className="pl-2">
                  <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
@@ -37,8 +38,8 @@ export default function  NewProducts(){
                 </div>
                 <div>
                     <Image
-                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
-                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                    src="/kenco.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Kenco</h1>
                  <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
                  <div  className="pl-2">
                  <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
@@ -52,8 +53,8 @@ export default function  NewProducts(){
                 </div>
                 <div>
                     <Image
-                    src="/coffeemachine.jpeg" height={150}  width={150} alt="Lo" />
-                 <h1 className="text-xs pt-3 p-2">Coffee MECHINE</h1>
+                    src="/chicorey.jpeg" height={150}  width={150} alt="Lo" />
+                 <h1 className="text-xs pt-3 p-2">Chicory</h1>
                  <p className="p-2">Offer freshly roasted coffee beans for customers to purchase and enjoy at home</p>
                  <div  className="pl-2">
                  <Image  src="/R.png" width={80} height={80}  alt="ratings"/>
@@ -65,9 +66,11 @@ export default function  NewProducts(){
                  <Button>Add To Cart</Button>
                  </div>
                 </div>
-                                    
+                      <div className="flex justify-center ">
+                        <Button variant="outline" className="">View More</Button>
+                        </div>              
                 </div>
-            </div>
+            
 
         </div>
     )
